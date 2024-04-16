@@ -1,0 +1,13 @@
+.mochi {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    
+}
+.taw {
+    max-width:80%;
+    display:flex;
+    justify-content:center;
+    margin-left: 10%;
+    height:auto}
