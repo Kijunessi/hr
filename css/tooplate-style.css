@@ -634,8 +634,7 @@ b, strong {
   padding-left: 15px;
 }
 .hoho {
-	display: flex-inline;
-	 width: 100%;
+	display: inline-flex;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
