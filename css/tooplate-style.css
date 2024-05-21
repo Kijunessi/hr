@@ -654,6 +654,7 @@ b, strong {
 .cinnamon-rolls {
   overflow: hidden;
   margin: 15px auto;
+  margin-left: 60px;
   border-radius: 100%;
   background-size: cover;
   background-repeat: no-repeat;
