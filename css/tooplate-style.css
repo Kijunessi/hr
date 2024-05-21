@@ -621,6 +621,7 @@ b, strong {
   flex-wrap: wrap;
   margin-left: -15px;
   margin-right: -15px;
+	margin-bottom: 50px;
 }
 .maria-walking-alone {
   justify-content: center !important;
