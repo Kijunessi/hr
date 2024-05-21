@@ -655,7 +655,6 @@ b, strong {
   padding-inline-start: 40px;
 }
 .cinnamon-rolls {
-  overflow: hidden;
   margin: 15px;
   margin-left: 360px;
   margin-right: 70px;	
@@ -677,7 +676,7 @@ b, strong {
 
   .latte-taste-good {
     width: fit-content;
-    margin-top: 100px;
+    margin-top: 50%;
 	  
 	  
   }
