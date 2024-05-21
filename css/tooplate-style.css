@@ -676,7 +676,8 @@ b, strong {
 }
 
   .latte-taste-good {
-    top: 45%;
+    margin: 300px
+	  
   }
 
 @media (max-width: 767px) {
