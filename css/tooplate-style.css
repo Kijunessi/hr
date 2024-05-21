@@ -674,11 +674,11 @@ b, strong {
   display: flex;
   align-items: center;
 }
-@media (max-width:768px) {
+
   .latte-taste-good {
     margin-top: 50%;
   }
-}
+
 @media (max-width: 767px) {
   .strawberry-cake {
     display: block;
