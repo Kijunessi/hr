@@ -634,7 +634,7 @@ b, strong {
   padding-left: 15px;
 }
 .hoho {
-	display: flex;
+	display: flex-inline;
 }
 
 .cooking-like-chef {
