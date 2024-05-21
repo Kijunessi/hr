@@ -621,7 +621,7 @@ b, strong {
   flex-wrap: wrap;
   margin-left: -15px;
   margin-right: -15px;
-	margin-bottom: 50px;
+
 }
 .maria-walking-alone {
   justify-content: center !important;
@@ -708,7 +708,7 @@ b, strong {
 
 }
 .cute-band {
-  width: 85%;
+  width: 240px
   margin: auto;
   height: 1px;
   background: #d1d1d1;
