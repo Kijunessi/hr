@@ -685,6 +685,9 @@ b, strong {
 .pearl-ks .name, .pearl-ks .title {
   text-align: center;
 }
+.pearl-ks {
+ padding-bottom: 10px;
+}
 .pearl-ks .name {
   font-size: 22px
 }
