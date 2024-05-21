@@ -633,6 +633,9 @@ b, strong {
   padding-right: 15px;
   padding-left: 15px;
 }
+.hoho {
+	display: flex;
+}
 
 .cooking-like-chef {
   justify-content: center !important;
