@@ -653,7 +653,6 @@ b, strong {
 }
 .cinnamon-rolls {
   overflow: hidden;
-  display: block;
   margin: 15px auto;
   border-radius: 100%;
   background-size: cover;
