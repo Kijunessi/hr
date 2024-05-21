@@ -673,13 +673,13 @@ b, strong {
   display: flex;
   align-items: center;
 }
-
+@media (max-width:767px) {
   .latte-taste-good {
     width: fit-content;
-    margin-top: 50%;
+    margin-top: 10%;
 	  margin-left:20px;
 	  
-	  
+  }	  
   }
 
 @media (max-width: 767px) {
